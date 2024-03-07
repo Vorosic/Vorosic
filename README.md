@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://tenor.com/view/早上好-早安-gif-23504711](https://imgflip.com/gif/8ibak1)"  />
+<img align="right" height="150" src="https://imgflip.com/gif/8ibak1"  />
 
 ###
 
