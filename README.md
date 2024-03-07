@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="250" src="https://i.imgflip.com/8ibf4d.gif"  />
+</div>
+
+###
+
 <h2 align="left">Hello 👋! My name is Zaky, or more known as Vorosic online, I'm from Indonesia!</h2>
 
 ###
