@@ -38,8 +38,6 @@
 </div>
 
 ###
-<div class="tenor-gif-embed" data-postid="7149248113277369190" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/sam-hsr-honkai-honkai-star-rail-star-rail-gif-7149248113277369190">Sam Hsr GIF</a>from <a href="https://tenor.com/search/sam-gifs">Sam GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-###
 
 <div align="center">
   <a href="https://www.youtube.com/@vorosic" target="_blank">
