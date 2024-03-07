@@ -9,9 +9,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Vorosic/count.svg?"  />
-</div>
+<img align="right" height="260" src="https://i.imgflip.com/8ibak1.gif"  />
 
 ###
 
@@ -30,10 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/8ibak1.gif"  />
 
 ###
 
