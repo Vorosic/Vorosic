@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vorosic.Vorosic&"  />
+</div>
+
+###
+
 <img align="right" height="200" width="200" src="https://i.imgflip.com/8ibak1.gif"  />
 
 ###
