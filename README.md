@@ -1,6 +1,4 @@
-![Hi!](https://github.com/Vorosic/Vorosic/assets/118418211/c46b10f8-0421-4f14-831d-0d1004b588c9)
-
-<h2 align="center">Hello 👋! My name is Zaky, or more known as Vorosic online, I'm from Indonesia!</h2>
+![Untitled design (3)](https://github.com/Vorosic/Vorosic/assets/118418211/b74ba053-f6c4-4506-aa49-e7775c518bc1)
 
 ###
 
