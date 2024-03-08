@@ -2,10 +2,7 @@
 
 ###
 
-<h3 align="left">About Me!</h3>
-# I'm from Indonesia!
-# I Love Games
-# Currently in 12th Grade!
+<h1 align="center">My Stats!</h1>
 
 ###
 
