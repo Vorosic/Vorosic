@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Zaky, or more known as Vorosic online, I'm from Indonesia!</h2>
+<h2 align="center">Hello 👋! My name is Zaky, or more known as Vorosic online, I'm from Indonesia!</h2>
 
 ###
 
