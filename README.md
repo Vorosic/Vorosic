@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/8ibf4d.gif"  />
-</div>
+<h3 align="left">About Me!</h3>
+- I'm from Indonesia!
+- I Love Games
+- Currently in 12th Grade!
 
 ###
 
