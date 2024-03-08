@@ -1,6 +1,6 @@
 ![Untitled design (3)](https://github.com/Vorosic/Vorosic/assets/118418211/b74ba053-f6c4-4506-aa49-e7775c518bc1)
-
 ###
+<p align="center">BoOooO~</p>
 
 <h1 align="center">My Stats!</h1>
 
